@@ -1,0 +1,53 @@
+﻿<Properties StartupConfiguration="{EFCE8430-36CF-47DF-9329-C6C905E33317}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Views/Home/Index.cshtml">
+    <Files>
+      <File FileName="appsettings.json" Line="1" Column="1" />
+      <File FileName="appsettings.Development.json" />
+      <File FileName="Models/Datacontext.cs" />
+      <File FileName="Startup.cs" />
+      <File FileName="Controllers/AdminController.cs" Line="73" Column="1" />
+      <File FileName="Controllers/BlogController.cs" />
+      <File FileName="Controllers/HomeController.cs" />
+      <File FileName="Views/Admin/Index.cshtml" Line="42" Column="25" />
+      <File FileName="Views/Home/Privacy.cshtml" />
+      <File FileName="Views/Home/Index.cshtml" Line="1" Column="1" />
+      <File FileName="Views/Shared/_Layout.cshtml" />
+      <File FileName="Program.cs" />
+      <File FileName="Models/ErrorViewModel.cs" />
+      <File FileName="Models/Pager.cs" />
+      <File FileName="Controllers/ContentController.cs" />
+      <File FileName="Views/Admin/Create.cshtml" />
+      <File FileName="Views/Admin/Edit.cshtml" Line="41" Column="1" />
+      <File FileName="Views/Blog/Blog.cshtml" Line="1" Column="1" />
+      <File FileName="Views/Blog/Index.cshtml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Miraii" expanded="True">
+            <Node name="Miraii" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Admin" expanded="True" />
+                <Node name="Blog" expanded="True" />
+                <Node name="Home" expanded="True">
+                  <Node name="Index.cshtml" selected="True" />
+                </Node>
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="Miraii.db" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Miraii PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

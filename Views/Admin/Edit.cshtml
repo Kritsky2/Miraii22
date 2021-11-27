@@ -1,0 +1,41 @@
+﻿@model Miraii.Models.Content
+
+<form asp-action="Edit" asp-controller="Admin" method="post">
+    <input type="hidden" asp-for="Id" />
+    <div class="row">
+        <div class="col-md-12">
+            <div class="form-group">
+                <label>Title</label>
+                <input asp-for="Title" type="text" />
+            </div>
+            <div class="form-group">
+                <label>Description</label>
+                <input asp-for="Description" type="text" />
+            </div>
+            <div class="form-group">
+                <label>Author</label>
+                <input asp-for="Author" type="text" />
+            </div>
+            <div class="form-group">
+                <label>Image</label>
+                <input asp-for="Image" type="text" />
+            </div>
+            <div class="form-group">
+                <label>Category</label>
+                <input asp-for="Category" type="text" />
+            </div>
+            <div class="form-group">
+                <div asp-validation-summary="All" class="text-danger"></div>
+            </div>
+            <div class="card-footer">
+                <center>
+                    <button type="submit" class="btn btn-success">Edit Content</button>
+                    <a asp-action="Index" asp-controller="Admin" class="btn">Return to index</a>
+                </center>
+            </div>
+
+        </div>
+
+    </div>
+</form>
+

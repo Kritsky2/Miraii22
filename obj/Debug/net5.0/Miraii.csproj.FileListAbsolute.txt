@@ -1,0 +1,388 @@
+/Users/panitarn/Desktop/Enough/Miraii/bin/Debug/net5.0/appsettings.Development.json
+/Users/panitarn/Desktop/Enough/Miraii/bin/Debug/net5.0/appsettings.json
+/Users/panitarn/Desktop/Enough/Miraii/bin/Debug/net5.0/Miraii.deps.json
+/Users/panitarn/Desktop/Enough/Miraii/bin/Debug/net5.0/Miraii.runtimeconfig.json
+/Users/panitarn/Desktop/Enough/Miraii/bin/Debug/net5.0/Miraii.runtimeconfig.dev.json
+/Users/panitarn/Desktop/Enough/Miraii/bin/Debug/net5.0/Miraii.dll
+/Users/panitarn/Desktop/Enough/Miraii/bin/Debug/net5.0/ref/Miraii.dll
+/Users/panitarn/Desktop/Enough/Miraii/bin/Debug/net5.0/Miraii.pdb
+/Users/panitarn/Desktop/Enough/Miraii/bin/Debug/net5.0/Miraii.Views.dll
+/Users/panitarn/Desktop/Enough/Miraii/bin/Debug/net5.0/Miraii.Views.pdb
+/Users/panitarn/Desktop/Enough/Miraii/obj/Debug/net5.0/Miraii.csprojAssemblyReference.cache
+/Users/panitarn/Desktop/Enough/Miraii/obj/Debug/net5.0/Miraii.GeneratedMSBuildEditorConfig.editorconfig
+/Users/panitarn/Desktop/Enough/Miraii/obj/Debug/net5.0/Miraii.AssemblyInfoInputs.cache
+/Users/panitarn/Desktop/Enough/Miraii/obj/Debug/net5.0/Miraii.AssemblyInfo.cs
+/Users/panitarn/Desktop/Enough/Miraii/obj/Debug/net5.0/Miraii.csproj.CoreCompileInputs.cache
+/Users/panitarn/Desktop/Enough/Miraii/obj/Debug/net5.0/Miraii.MvcApplicationPartsAssemblyInfo.cache
+/Users/panitarn/Desktop/Enough/Miraii/obj/Debug/net5.0/Miraii.RazorAssemblyInfo.cache
+/Users/panitarn/Desktop/Enough/Miraii/obj/Debug/net5.0/Miraii.RazorAssemblyInfo.cs
+/Users/panitarn/Desktop/Enough/Miraii/obj/Debug/net5.0/staticwebassets/Miraii.StaticWebAssets.Manifest.cache
+/Users/panitarn/Desktop/Enough/Miraii/obj/Debug/net5.0/staticwebassets/Miraii.StaticWebAssets.xml
+/Users/panitarn/Desktop/Enough/Miraii/obj/Debug/net5.0/scopedcss/bundle/Miraii.styles.css
+/Users/panitarn/Desktop/Enough/Miraii/obj/Debug/net5.0/Miraii.TagHelpers.input.cache
+/Users/panitarn/Desktop/Enough/Miraii/obj/Debug/net5.0/Miraii.TagHelpers.output.cache
+/Users/panitarn/Desktop/Enough/Miraii/obj/Debug/net5.0/Miraii.RazorCoreGenerate.cache
+/Users/panitarn/Desktop/Enough/Miraii/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+/Users/panitarn/Desktop/Enough/Miraii/obj/Debug/net5.0/Razor/Views/Home/Privacy.cshtml.g.cs
+/Users/panitarn/Desktop/Enough/Miraii/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/panitarn/Desktop/Enough/Miraii/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/panitarn/Desktop/Enough/Miraii/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/panitarn/Desktop/Enough/Miraii/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/panitarn/Desktop/Enough/Miraii/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/panitarn/Desktop/Enough/Miraii/obj/Debug/net5.0/Miraii.RazorTargetAssemblyInfo.cache
+/Users/panitarn/Desktop/Enough/Miraii/obj/Debug/net5.0/Miraii.RazorTargetAssemblyInfo.cs
+/Users/panitarn/Desktop/Enough/Miraii/obj/Debug/net5.0/Miraii.Views.pdb
+/Users/panitarn/Desktop/Enough/Miraii/obj/Debug/net5.0/Miraii.dll
+/Users/panitarn/Desktop/Enough/Miraii/obj/Debug/net5.0/ref/Miraii.dll
+/Users/panitarn/Desktop/Enough/Miraii/obj/Debug/net5.0/Miraii.pdb
+/Users/panitarn/Desktop/Enough/Miraii/obj/Debug/net5.0/Miraii.genruntimeconfig.cache
+/Users/panitarn/Desktop/Enough/Miraii/obj/Debug/net5.0/Miraii.csproj.CopyComplete
+/Users/panitarn/Desktop/Enough/Miraii/obj/Debug/net5.0/Razor/Views/Blog/Blog.cshtml.g.cs
+/Users/panitarn/Desktop/Enough/Miraii/obj/Debug/net5.0/Razor/Views/Blog/Index.cshtml.g.cs
+/Users/panitarn/Desktop/Enough/Miraii/obj/Debug/net5.0/Razor/Views/Admin/Index.cshtml.g.cs
+/Users/kritsky/Desktop/Enogth/Miraii/miraii-main-master/bin/Debug/net5.0/appsettings.Development.json
+/Users/kritsky/Desktop/Enogth/Miraii/miraii-main-master/bin/Debug/net5.0/appsettings.json
+/Users/kritsky/Desktop/Enogth/Miraii/miraii-main-master/bin/Debug/net5.0/Miraii.deps.json
+/Users/kritsky/Desktop/Enogth/Miraii/miraii-main-master/bin/Debug/net5.0/Miraii.runtimeconfig.json
+/Users/kritsky/Desktop/Enogth/Miraii/miraii-main-master/bin/Debug/net5.0/Miraii.runtimeconfig.dev.json
+/Users/kritsky/Desktop/Enogth/Miraii/miraii-main-master/bin/Debug/net5.0/Miraii.dll
+/Users/kritsky/Desktop/Enogth/Miraii/miraii-main-master/bin/Debug/net5.0/ref/Miraii.dll
+/Users/kritsky/Desktop/Enogth/Miraii/miraii-main-master/bin/Debug/net5.0/Miraii.pdb
+/Users/kritsky/Desktop/Enogth/Miraii/miraii-main-master/bin/Debug/net5.0/Miraii.Views.dll
+/Users/kritsky/Desktop/Enogth/Miraii/miraii-main-master/bin/Debug/net5.0/Miraii.Views.pdb
+/Users/kritsky/Desktop/Enogth/Miraii/miraii-main-master/obj/Debug/net5.0/Miraii.csproj.AssemblyReference.cache
+/Users/kritsky/Desktop/Enogth/Miraii/miraii-main-master/obj/Debug/net5.0/Miraii.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kritsky/Desktop/Enogth/Miraii/miraii-main-master/obj/Debug/net5.0/Miraii.AssemblyInfoInputs.cache
+/Users/kritsky/Desktop/Enogth/Miraii/miraii-main-master/obj/Debug/net5.0/Miraii.AssemblyInfo.cs
+/Users/kritsky/Desktop/Enogth/Miraii/miraii-main-master/obj/Debug/net5.0/Miraii.csproj.CoreCompileInputs.cache
+/Users/kritsky/Desktop/Enogth/Miraii/miraii-main-master/obj/Debug/net5.0/Miraii.MvcApplicationPartsAssemblyInfo.cache
+/Users/kritsky/Desktop/Enogth/Miraii/miraii-main-master/obj/Debug/net5.0/Miraii.RazorAssemblyInfo.cache
+/Users/kritsky/Desktop/Enogth/Miraii/miraii-main-master/obj/Debug/net5.0/Miraii.RazorAssemblyInfo.cs
+/Users/kritsky/Desktop/Enogth/Miraii/miraii-main-master/obj/Debug/net5.0/staticwebassets/Miraii.StaticWebAssets.Manifest.cache
+/Users/kritsky/Desktop/Enogth/Miraii/miraii-main-master/obj/Debug/net5.0/staticwebassets/Miraii.StaticWebAssets.xml
+/Users/kritsky/Desktop/Enogth/Miraii/miraii-main-master/obj/Debug/net5.0/scopedcss/bundle/Miraii.styles.css
+/Users/kritsky/Desktop/Enogth/Miraii/miraii-main-master/obj/Debug/net5.0/Miraii.TagHelpers.input.cache
+/Users/kritsky/Desktop/Enogth/Miraii/miraii-main-master/obj/Debug/net5.0/Miraii.TagHelpers.output.cache
+/Users/kritsky/Desktop/Enogth/Miraii/miraii-main-master/obj/Debug/net5.0/Miraii.RazorCoreGenerate.cache
+/Users/kritsky/Desktop/Enogth/Miraii/miraii-main-master/obj/Debug/net5.0/Razor/Views/Admin/Index.cshtml.g.cs
+/Users/kritsky/Desktop/Enogth/Miraii/miraii-main-master/obj/Debug/net5.0/Razor/Views/Blog/Blog.cshtml.g.cs
+/Users/kritsky/Desktop/Enogth/Miraii/miraii-main-master/obj/Debug/net5.0/Razor/Views/Blog/Index.cshtml.g.cs
+/Users/kritsky/Desktop/Enogth/Miraii/miraii-main-master/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+/Users/kritsky/Desktop/Enogth/Miraii/miraii-main-master/obj/Debug/net5.0/Razor/Views/Home/Privacy.cshtml.g.cs
+/Users/kritsky/Desktop/Enogth/Miraii/miraii-main-master/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/kritsky/Desktop/Enogth/Miraii/miraii-main-master/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/kritsky/Desktop/Enogth/Miraii/miraii-main-master/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/kritsky/Desktop/Enogth/Miraii/miraii-main-master/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/kritsky/Desktop/Enogth/Miraii/miraii-main-master/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/kritsky/Desktop/Enogth/Miraii/miraii-main-master/obj/Debug/net5.0/Miraii.RazorTargetAssemblyInfo.cache
+/Users/kritsky/Desktop/Enogth/Miraii/miraii-main-master/obj/Debug/net5.0/Miraii.RazorTargetAssemblyInfo.cs
+/Users/kritsky/Desktop/Enogth/Miraii/miraii-main-master/obj/Debug/net5.0/Miraii.Views.pdb
+/Users/kritsky/Desktop/Enogth/Miraii/miraii-main-master/obj/Debug/net5.0/Miraii.dll
+/Users/kritsky/Desktop/Enogth/Miraii/miraii-main-master/obj/Debug/net5.0/ref/Miraii.dll
+/Users/kritsky/Desktop/Enogth/Miraii/miraii-main-master/obj/Debug/net5.0/Miraii.pdb
+/Users/kritsky/Desktop/Enogth/Miraii/miraii-main-master/obj/Debug/net5.0/Miraii.genruntimeconfig.cache
+/Users/kritsky/Desktop/Enogth/Miraii/miraii-main-master/obj/Debug/net5.0/Miraii.csproj.CopyComplete
+/Users/kritsky/Desktop/Enogth/Miraii/miraii-main-master/bin/Debug/net5.0/Microsoft.Data.Sqlite.dll
+/Users/kritsky/Desktop/Enogth/Miraii/miraii-main-master/bin/Debug/net5.0/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/kritsky/Desktop/Enogth/Miraii/miraii-main-master/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Users/kritsky/Desktop/Enogth/Miraii/miraii-main-master/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/kritsky/Desktop/Enogth/Miraii/miraii-main-master/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/kritsky/Desktop/Enogth/Miraii/miraii-main-master/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/kritsky/Desktop/Enogth/Miraii/miraii-main-master/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/kritsky/Desktop/Enogth/Miraii/miraii-main-master/bin/Debug/net5.0/Microsoft.Extensions.DependencyModel.dll
+/Users/kritsky/Desktop/Enogth/Miraii/miraii-main-master/bin/Debug/net5.0/SQLitePCLRaw.batteries_v2.dll
+/Users/kritsky/Desktop/Enogth/Miraii/miraii-main-master/bin/Debug/net5.0/SQLitePCLRaw.nativelibrary.dll
+/Users/kritsky/Desktop/Enogth/Miraii/miraii-main-master/bin/Debug/net5.0/SQLitePCLRaw.core.dll
+/Users/kritsky/Desktop/Enogth/Miraii/miraii-main-master/bin/Debug/net5.0/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Users/kritsky/Desktop/Enogth/Miraii/miraii-main-master/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/Users/kritsky/Desktop/Enogth/Miraii/miraii-main-master/bin/Debug/net5.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/kritsky/Desktop/Enogth/Miraii/miraii-main-master/bin/Debug/net5.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/kritsky/Desktop/Enogth/Miraii/miraii-main-master/bin/Debug/net5.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/kritsky/Desktop/Enogth/Miraii/miraii-main-master/bin/Debug/net5.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/kritsky/Desktop/Enogth/Miraii/miraii-main-master/bin/Debug/net5.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/kritsky/Desktop/Enogth/Miraii/miraii-main-master/bin/Debug/net5.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/kritsky/Desktop/Enogth/Miraii/miraii-main-master/bin/Debug/net5.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/kritsky/Desktop/Enogth/Miraii/miraii-main-master/bin/Debug/net5.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/kritsky/Desktop/Enogth/Miraii/miraii-main-master/bin/Debug/net5.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/kritsky/Desktop/Enogth/Miraii/miraii-main-master/bin/Debug/net5.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/kritsky/Desktop/Enogth/Miraii/miraii-main-master/bin/Debug/net5.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/kritsky/Desktop/Enogth/Miraii/miraii-main-master/bin/Debug/net5.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/kritsky/Desktop/Enogth/Miraii/miraii-main-master/bin/Debug/net5.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/kritsky/Desktop/asda/bin/Debug/net5.0/appsettings.Development.json
+/Users/kritsky/Desktop/asda/bin/Debug/net5.0/appsettings.json
+/Users/kritsky/Desktop/asda/bin/Debug/net5.0/Miraii.deps.json
+/Users/kritsky/Desktop/asda/bin/Debug/net5.0/Miraii.runtimeconfig.json
+/Users/kritsky/Desktop/asda/bin/Debug/net5.0/Miraii.runtimeconfig.dev.json
+/Users/kritsky/Desktop/asda/bin/Debug/net5.0/Miraii.dll
+/Users/kritsky/Desktop/asda/bin/Debug/net5.0/ref/Miraii.dll
+/Users/kritsky/Desktop/asda/bin/Debug/net5.0/Miraii.pdb
+/Users/kritsky/Desktop/asda/bin/Debug/net5.0/Miraii.Views.dll
+/Users/kritsky/Desktop/asda/bin/Debug/net5.0/Miraii.Views.pdb
+/Users/kritsky/Desktop/asda/bin/Debug/net5.0/Microsoft.Data.Sqlite.dll
+/Users/kritsky/Desktop/asda/bin/Debug/net5.0/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/kritsky/Desktop/asda/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Users/kritsky/Desktop/asda/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/kritsky/Desktop/asda/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/kritsky/Desktop/asda/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/kritsky/Desktop/asda/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/kritsky/Desktop/asda/bin/Debug/net5.0/Microsoft.Extensions.DependencyModel.dll
+/Users/kritsky/Desktop/asda/bin/Debug/net5.0/SQLitePCLRaw.batteries_v2.dll
+/Users/kritsky/Desktop/asda/bin/Debug/net5.0/SQLitePCLRaw.nativelibrary.dll
+/Users/kritsky/Desktop/asda/bin/Debug/net5.0/SQLitePCLRaw.core.dll
+/Users/kritsky/Desktop/asda/bin/Debug/net5.0/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Users/kritsky/Desktop/asda/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/Users/kritsky/Desktop/asda/bin/Debug/net5.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/kritsky/Desktop/asda/bin/Debug/net5.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/kritsky/Desktop/asda/bin/Debug/net5.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/kritsky/Desktop/asda/bin/Debug/net5.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/kritsky/Desktop/asda/bin/Debug/net5.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/kritsky/Desktop/asda/bin/Debug/net5.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/kritsky/Desktop/asda/bin/Debug/net5.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/kritsky/Desktop/asda/bin/Debug/net5.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/kritsky/Desktop/asda/bin/Debug/net5.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/kritsky/Desktop/asda/bin/Debug/net5.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/kritsky/Desktop/asda/bin/Debug/net5.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/kritsky/Desktop/asda/bin/Debug/net5.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/kritsky/Desktop/asda/bin/Debug/net5.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/kritsky/Desktop/asda/obj/Debug/net5.0/Miraii.csproj.AssemblyReference.cache
+/Users/kritsky/Desktop/asda/obj/Debug/net5.0/Miraii.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kritsky/Desktop/asda/obj/Debug/net5.0/Miraii.AssemblyInfoInputs.cache
+/Users/kritsky/Desktop/asda/obj/Debug/net5.0/Miraii.AssemblyInfo.cs
+/Users/kritsky/Desktop/asda/obj/Debug/net5.0/Miraii.csproj.CoreCompileInputs.cache
+/Users/kritsky/Desktop/asda/obj/Debug/net5.0/Miraii.MvcApplicationPartsAssemblyInfo.cache
+/Users/kritsky/Desktop/asda/obj/Debug/net5.0/Miraii.RazorAssemblyInfo.cache
+/Users/kritsky/Desktop/asda/obj/Debug/net5.0/Miraii.RazorAssemblyInfo.cs
+/Users/kritsky/Desktop/asda/obj/Debug/net5.0/staticwebassets/Miraii.StaticWebAssets.Manifest.cache
+/Users/kritsky/Desktop/asda/obj/Debug/net5.0/staticwebassets/Miraii.StaticWebAssets.xml
+/Users/kritsky/Desktop/asda/obj/Debug/net5.0/scopedcss/bundle/Miraii.styles.css
+/Users/kritsky/Desktop/asda/obj/Debug/net5.0/Miraii.TagHelpers.input.cache
+/Users/kritsky/Desktop/asda/obj/Debug/net5.0/Miraii.TagHelpers.output.cache
+/Users/kritsky/Desktop/asda/obj/Debug/net5.0/Miraii.RazorCoreGenerate.cache
+/Users/kritsky/Desktop/asda/obj/Debug/net5.0/Razor/Views/Admin/Index.cshtml.g.cs
+/Users/kritsky/Desktop/asda/obj/Debug/net5.0/Razor/Views/Blog/Blog.cshtml.g.cs
+/Users/kritsky/Desktop/asda/obj/Debug/net5.0/Razor/Views/Blog/Index.cshtml.g.cs
+/Users/kritsky/Desktop/asda/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+/Users/kritsky/Desktop/asda/obj/Debug/net5.0/Razor/Views/Home/Privacy.cshtml.g.cs
+/Users/kritsky/Desktop/asda/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/kritsky/Desktop/asda/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/kritsky/Desktop/asda/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/kritsky/Desktop/asda/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/kritsky/Desktop/asda/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/kritsky/Desktop/asda/obj/Debug/net5.0/Miraii.RazorTargetAssemblyInfo.cache
+/Users/kritsky/Desktop/asda/obj/Debug/net5.0/Miraii.RazorTargetAssemblyInfo.cs
+/Users/kritsky/Desktop/asda/obj/Debug/net5.0/Miraii.Views.pdb
+/Users/kritsky/Desktop/asda/obj/Debug/net5.0/Miraii.dll
+/Users/kritsky/Desktop/asda/obj/Debug/net5.0/ref/Miraii.dll
+/Users/kritsky/Desktop/asda/obj/Debug/net5.0/Miraii.pdb
+/Users/kritsky/Desktop/asda/obj/Debug/net5.0/Miraii.genruntimeconfig.cache
+/Users/kritsky/Desktop/asda/obj/Debug/net5.0/Miraii.csproj.CopyComplete
+/Users/kritsky/Desktop/asda 2/bin/Debug/net5.0/appsettings.Development.json
+/Users/kritsky/Desktop/asda 2/bin/Debug/net5.0/appsettings.json
+/Users/kritsky/Desktop/asda 2/bin/Debug/net5.0/Miraii.deps.json
+/Users/kritsky/Desktop/asda 2/bin/Debug/net5.0/Miraii.runtimeconfig.json
+/Users/kritsky/Desktop/asda 2/bin/Debug/net5.0/Miraii.runtimeconfig.dev.json
+/Users/kritsky/Desktop/asda 2/bin/Debug/net5.0/Miraii.dll
+/Users/kritsky/Desktop/asda 2/bin/Debug/net5.0/ref/Miraii.dll
+/Users/kritsky/Desktop/asda 2/bin/Debug/net5.0/Miraii.pdb
+/Users/kritsky/Desktop/asda 2/bin/Debug/net5.0/Miraii.Views.dll
+/Users/kritsky/Desktop/asda 2/bin/Debug/net5.0/Miraii.Views.pdb
+/Users/kritsky/Desktop/asda 2/bin/Debug/net5.0/Microsoft.Data.Sqlite.dll
+/Users/kritsky/Desktop/asda 2/bin/Debug/net5.0/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/kritsky/Desktop/asda 2/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Users/kritsky/Desktop/asda 2/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/kritsky/Desktop/asda 2/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/kritsky/Desktop/asda 2/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/kritsky/Desktop/asda 2/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/kritsky/Desktop/asda 2/bin/Debug/net5.0/Microsoft.Extensions.DependencyModel.dll
+/Users/kritsky/Desktop/asda 2/bin/Debug/net5.0/SQLitePCLRaw.batteries_v2.dll
+/Users/kritsky/Desktop/asda 2/bin/Debug/net5.0/SQLitePCLRaw.nativelibrary.dll
+/Users/kritsky/Desktop/asda 2/bin/Debug/net5.0/SQLitePCLRaw.core.dll
+/Users/kritsky/Desktop/asda 2/bin/Debug/net5.0/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Users/kritsky/Desktop/asda 2/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/Users/kritsky/Desktop/asda 2/bin/Debug/net5.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/kritsky/Desktop/asda 2/bin/Debug/net5.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/kritsky/Desktop/asda 2/bin/Debug/net5.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/kritsky/Desktop/asda 2/bin/Debug/net5.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/kritsky/Desktop/asda 2/bin/Debug/net5.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/kritsky/Desktop/asda 2/bin/Debug/net5.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/kritsky/Desktop/asda 2/bin/Debug/net5.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/kritsky/Desktop/asda 2/bin/Debug/net5.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/kritsky/Desktop/asda 2/bin/Debug/net5.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/kritsky/Desktop/asda 2/bin/Debug/net5.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/kritsky/Desktop/asda 2/bin/Debug/net5.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/kritsky/Desktop/asda 2/bin/Debug/net5.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/kritsky/Desktop/asda 2/bin/Debug/net5.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/kritsky/Desktop/asda 2/obj/Debug/net5.0/Miraii.csproj.AssemblyReference.cache
+/Users/kritsky/Desktop/asda 2/obj/Debug/net5.0/Miraii.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kritsky/Desktop/asda 2/obj/Debug/net5.0/Miraii.AssemblyInfoInputs.cache
+/Users/kritsky/Desktop/asda 2/obj/Debug/net5.0/Miraii.AssemblyInfo.cs
+/Users/kritsky/Desktop/asda 2/obj/Debug/net5.0/Miraii.csproj.CoreCompileInputs.cache
+/Users/kritsky/Desktop/asda 2/obj/Debug/net5.0/Miraii.MvcApplicationPartsAssemblyInfo.cache
+/Users/kritsky/Desktop/asda 2/obj/Debug/net5.0/Miraii.RazorAssemblyInfo.cache
+/Users/kritsky/Desktop/asda 2/obj/Debug/net5.0/Miraii.RazorAssemblyInfo.cs
+/Users/kritsky/Desktop/asda 2/obj/Debug/net5.0/staticwebassets/Miraii.StaticWebAssets.Manifest.cache
+/Users/kritsky/Desktop/asda 2/obj/Debug/net5.0/staticwebassets/Miraii.StaticWebAssets.xml
+/Users/kritsky/Desktop/asda 2/obj/Debug/net5.0/scopedcss/bundle/Miraii.styles.css
+/Users/kritsky/Desktop/asda 2/obj/Debug/net5.0/Miraii.TagHelpers.input.cache
+/Users/kritsky/Desktop/asda 2/obj/Debug/net5.0/Miraii.TagHelpers.output.cache
+/Users/kritsky/Desktop/asda 2/obj/Debug/net5.0/Miraii.RazorCoreGenerate.cache
+/Users/kritsky/Desktop/asda 2/obj/Debug/net5.0/Razor/Views/Admin/Create.cshtml.g.cs
+/Users/kritsky/Desktop/asda 2/obj/Debug/net5.0/Razor/Views/Admin/Index.cshtml.g.cs
+/Users/kritsky/Desktop/asda 2/obj/Debug/net5.0/Razor/Views/Blog/Blog.cshtml.g.cs
+/Users/kritsky/Desktop/asda 2/obj/Debug/net5.0/Razor/Views/Blog/Index.cshtml.g.cs
+/Users/kritsky/Desktop/asda 2/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+/Users/kritsky/Desktop/asda 2/obj/Debug/net5.0/Razor/Views/Home/Privacy.cshtml.g.cs
+/Users/kritsky/Desktop/asda 2/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/kritsky/Desktop/asda 2/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/kritsky/Desktop/asda 2/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/kritsky/Desktop/asda 2/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/kritsky/Desktop/asda 2/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/kritsky/Desktop/asda 2/obj/Debug/net5.0/Miraii.RazorTargetAssemblyInfo.cache
+/Users/kritsky/Desktop/asda 2/obj/Debug/net5.0/Miraii.RazorTargetAssemblyInfo.cs
+/Users/kritsky/Desktop/asda 2/obj/Debug/net5.0/Miraii.Views.pdb
+/Users/kritsky/Desktop/asda 2/obj/Debug/net5.0/Miraii.csproj.CopyComplete
+/Users/kritsky/Desktop/asda 2/obj/Debug/net5.0/Miraii.dll
+/Users/kritsky/Desktop/asda 2/obj/Debug/net5.0/ref/Miraii.dll
+/Users/kritsky/Desktop/asda 2/obj/Debug/net5.0/Miraii.pdb
+/Users/kritsky/Desktop/asda 2/obj/Debug/net5.0/Miraii.genruntimeconfig.cache
+/Users/kritsky/Desktop/asda 2/obj/Debug/net5.0/Razor/Views/Admin/Edit.cshtml.g.cs
+/Users/kritsky/Desktop/dev/asda 2/bin/Debug/net5.0/appsettings.Development.json
+/Users/kritsky/Desktop/dev/asda 2/bin/Debug/net5.0/appsettings.json
+/Users/kritsky/Desktop/dev/asda 2/bin/Debug/net5.0/Miraii.deps.json
+/Users/kritsky/Desktop/dev/asda 2/bin/Debug/net5.0/Miraii.runtimeconfig.json
+/Users/kritsky/Desktop/dev/asda 2/bin/Debug/net5.0/Miraii.runtimeconfig.dev.json
+/Users/kritsky/Desktop/dev/asda 2/bin/Debug/net5.0/Miraii.dll
+/Users/kritsky/Desktop/dev/asda 2/bin/Debug/net5.0/ref/Miraii.dll
+/Users/kritsky/Desktop/dev/asda 2/bin/Debug/net5.0/Miraii.pdb
+/Users/kritsky/Desktop/dev/asda 2/bin/Debug/net5.0/Miraii.Views.dll
+/Users/kritsky/Desktop/dev/asda 2/bin/Debug/net5.0/Miraii.Views.pdb
+/Users/kritsky/Desktop/dev/asda 2/bin/Debug/net5.0/Microsoft.Data.Sqlite.dll
+/Users/kritsky/Desktop/dev/asda 2/bin/Debug/net5.0/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/kritsky/Desktop/dev/asda 2/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Users/kritsky/Desktop/dev/asda 2/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/kritsky/Desktop/dev/asda 2/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/kritsky/Desktop/dev/asda 2/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/kritsky/Desktop/dev/asda 2/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/kritsky/Desktop/dev/asda 2/bin/Debug/net5.0/Microsoft.Extensions.DependencyModel.dll
+/Users/kritsky/Desktop/dev/asda 2/bin/Debug/net5.0/SQLitePCLRaw.batteries_v2.dll
+/Users/kritsky/Desktop/dev/asda 2/bin/Debug/net5.0/SQLitePCLRaw.nativelibrary.dll
+/Users/kritsky/Desktop/dev/asda 2/bin/Debug/net5.0/SQLitePCLRaw.core.dll
+/Users/kritsky/Desktop/dev/asda 2/bin/Debug/net5.0/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Users/kritsky/Desktop/dev/asda 2/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/Users/kritsky/Desktop/dev/asda 2/bin/Debug/net5.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/kritsky/Desktop/dev/asda 2/bin/Debug/net5.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/kritsky/Desktop/dev/asda 2/bin/Debug/net5.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/kritsky/Desktop/dev/asda 2/bin/Debug/net5.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/kritsky/Desktop/dev/asda 2/bin/Debug/net5.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/kritsky/Desktop/dev/asda 2/bin/Debug/net5.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/kritsky/Desktop/dev/asda 2/bin/Debug/net5.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/kritsky/Desktop/dev/asda 2/bin/Debug/net5.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/kritsky/Desktop/dev/asda 2/bin/Debug/net5.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/kritsky/Desktop/dev/asda 2/bin/Debug/net5.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/kritsky/Desktop/dev/asda 2/bin/Debug/net5.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/kritsky/Desktop/dev/asda 2/bin/Debug/net5.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/kritsky/Desktop/dev/asda 2/bin/Debug/net5.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/kritsky/Desktop/dev/asda 2/obj/Debug/net5.0/Miraii.csproj.AssemblyReference.cache
+/Users/kritsky/Desktop/dev/asda 2/obj/Debug/net5.0/Miraii.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kritsky/Desktop/dev/asda 2/obj/Debug/net5.0/Miraii.AssemblyInfoInputs.cache
+/Users/kritsky/Desktop/dev/asda 2/obj/Debug/net5.0/Miraii.AssemblyInfo.cs
+/Users/kritsky/Desktop/dev/asda 2/obj/Debug/net5.0/Miraii.csproj.CoreCompileInputs.cache
+/Users/kritsky/Desktop/dev/asda 2/obj/Debug/net5.0/Miraii.MvcApplicationPartsAssemblyInfo.cache
+/Users/kritsky/Desktop/dev/asda 2/obj/Debug/net5.0/Miraii.RazorAssemblyInfo.cache
+/Users/kritsky/Desktop/dev/asda 2/obj/Debug/net5.0/Miraii.RazorAssemblyInfo.cs
+/Users/kritsky/Desktop/dev/asda 2/obj/Debug/net5.0/staticwebassets/Miraii.StaticWebAssets.Manifest.cache
+/Users/kritsky/Desktop/dev/asda 2/obj/Debug/net5.0/staticwebassets/Miraii.StaticWebAssets.xml
+/Users/kritsky/Desktop/dev/asda 2/obj/Debug/net5.0/scopedcss/bundle/Miraii.styles.css
+/Users/kritsky/Desktop/dev/asda 2/obj/Debug/net5.0/Miraii.TagHelpers.input.cache
+/Users/kritsky/Desktop/dev/asda 2/obj/Debug/net5.0/Miraii.TagHelpers.output.cache
+/Users/kritsky/Desktop/dev/asda 2/obj/Debug/net5.0/Miraii.RazorCoreGenerate.cache
+/Users/kritsky/Desktop/dev/asda 2/obj/Debug/net5.0/Razor/Views/Admin/Create.cshtml.g.cs
+/Users/kritsky/Desktop/dev/asda 2/obj/Debug/net5.0/Razor/Views/Admin/Edit.cshtml.g.cs
+/Users/kritsky/Desktop/dev/asda 2/obj/Debug/net5.0/Razor/Views/Admin/Index.cshtml.g.cs
+/Users/kritsky/Desktop/dev/asda 2/obj/Debug/net5.0/Razor/Views/Blog/Blog.cshtml.g.cs
+/Users/kritsky/Desktop/dev/asda 2/obj/Debug/net5.0/Razor/Views/Blog/Index.cshtml.g.cs
+/Users/kritsky/Desktop/dev/asda 2/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+/Users/kritsky/Desktop/dev/asda 2/obj/Debug/net5.0/Razor/Views/Home/Privacy.cshtml.g.cs
+/Users/kritsky/Desktop/dev/asda 2/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/kritsky/Desktop/dev/asda 2/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/kritsky/Desktop/dev/asda 2/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/kritsky/Desktop/dev/asda 2/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/kritsky/Desktop/dev/asda 2/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/kritsky/Desktop/dev/asda 2/obj/Debug/net5.0/Miraii.RazorTargetAssemblyInfo.cache
+/Users/kritsky/Desktop/dev/asda 2/obj/Debug/net5.0/Miraii.RazorTargetAssemblyInfo.cs
+/Users/kritsky/Desktop/dev/asda 2/obj/Debug/net5.0/Miraii.Views.pdb
+/Users/kritsky/Desktop/dev/asda 2/obj/Debug/net5.0/Miraii.csproj.CopyComplete
+/Users/kritsky/Desktop/dev/asda 2/obj/Debug/net5.0/Miraii.dll
+/Users/kritsky/Desktop/dev/asda 2/obj/Debug/net5.0/ref/Miraii.dll
+/Users/kritsky/Desktop/dev/asda 2/obj/Debug/net5.0/Miraii.pdb
+/Users/kritsky/Desktop/dev/asda 2/obj/Debug/net5.0/Miraii.genruntimeconfig.cache
+/Users/kritsky/Desktop/Miraii2/bin/Debug/net5.0/appsettings.Development.json
+/Users/kritsky/Desktop/Miraii2/bin/Debug/net5.0/appsettings.json
+/Users/kritsky/Desktop/Miraii2/bin/Debug/net5.0/Miraii.deps.json
+/Users/kritsky/Desktop/Miraii2/bin/Debug/net5.0/Miraii.runtimeconfig.json
+/Users/kritsky/Desktop/Miraii2/bin/Debug/net5.0/Miraii.runtimeconfig.dev.json
+/Users/kritsky/Desktop/Miraii2/bin/Debug/net5.0/Miraii.dll
+/Users/kritsky/Desktop/Miraii2/bin/Debug/net5.0/ref/Miraii.dll
+/Users/kritsky/Desktop/Miraii2/bin/Debug/net5.0/Miraii.pdb
+/Users/kritsky/Desktop/Miraii2/bin/Debug/net5.0/Miraii.Views.dll
+/Users/kritsky/Desktop/Miraii2/bin/Debug/net5.0/Miraii.Views.pdb
+/Users/kritsky/Desktop/Miraii2/bin/Debug/net5.0/Microsoft.Data.Sqlite.dll
+/Users/kritsky/Desktop/Miraii2/bin/Debug/net5.0/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/kritsky/Desktop/Miraii2/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Users/kritsky/Desktop/Miraii2/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/kritsky/Desktop/Miraii2/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/kritsky/Desktop/Miraii2/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/kritsky/Desktop/Miraii2/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/kritsky/Desktop/Miraii2/bin/Debug/net5.0/Microsoft.Extensions.DependencyModel.dll
+/Users/kritsky/Desktop/Miraii2/bin/Debug/net5.0/SQLitePCLRaw.batteries_v2.dll
+/Users/kritsky/Desktop/Miraii2/bin/Debug/net5.0/SQLitePCLRaw.nativelibrary.dll
+/Users/kritsky/Desktop/Miraii2/bin/Debug/net5.0/SQLitePCLRaw.core.dll
+/Users/kritsky/Desktop/Miraii2/bin/Debug/net5.0/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Users/kritsky/Desktop/Miraii2/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/Users/kritsky/Desktop/Miraii2/bin/Debug/net5.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/kritsky/Desktop/Miraii2/bin/Debug/net5.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/kritsky/Desktop/Miraii2/bin/Debug/net5.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/kritsky/Desktop/Miraii2/bin/Debug/net5.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/kritsky/Desktop/Miraii2/bin/Debug/net5.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/kritsky/Desktop/Miraii2/bin/Debug/net5.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/kritsky/Desktop/Miraii2/bin/Debug/net5.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/kritsky/Desktop/Miraii2/bin/Debug/net5.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/kritsky/Desktop/Miraii2/bin/Debug/net5.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/kritsky/Desktop/Miraii2/bin/Debug/net5.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/kritsky/Desktop/Miraii2/bin/Debug/net5.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/kritsky/Desktop/Miraii2/bin/Debug/net5.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/kritsky/Desktop/Miraii2/bin/Debug/net5.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/kritsky/Desktop/Miraii2/obj/Debug/net5.0/Miraii.csproj.AssemblyReference.cache
+/Users/kritsky/Desktop/Miraii2/obj/Debug/net5.0/Miraii.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kritsky/Desktop/Miraii2/obj/Debug/net5.0/Miraii.AssemblyInfoInputs.cache
+/Users/kritsky/Desktop/Miraii2/obj/Debug/net5.0/Miraii.AssemblyInfo.cs
+/Users/kritsky/Desktop/Miraii2/obj/Debug/net5.0/Miraii.csproj.CoreCompileInputs.cache
+/Users/kritsky/Desktop/Miraii2/obj/Debug/net5.0/Miraii.MvcApplicationPartsAssemblyInfo.cache
+/Users/kritsky/Desktop/Miraii2/obj/Debug/net5.0/Miraii.RazorAssemblyInfo.cache
+/Users/kritsky/Desktop/Miraii2/obj/Debug/net5.0/Miraii.RazorAssemblyInfo.cs
+/Users/kritsky/Desktop/Miraii2/obj/Debug/net5.0/staticwebassets/Miraii.StaticWebAssets.Manifest.cache
+/Users/kritsky/Desktop/Miraii2/obj/Debug/net5.0/staticwebassets/Miraii.StaticWebAssets.xml
+/Users/kritsky/Desktop/Miraii2/obj/Debug/net5.0/scopedcss/bundle/Miraii.styles.css
+/Users/kritsky/Desktop/Miraii2/obj/Debug/net5.0/Miraii.TagHelpers.input.cache
+/Users/kritsky/Desktop/Miraii2/obj/Debug/net5.0/Miraii.TagHelpers.output.cache
+/Users/kritsky/Desktop/Miraii2/obj/Debug/net5.0/Miraii.RazorCoreGenerate.cache
+/Users/kritsky/Desktop/Miraii2/obj/Debug/net5.0/Razor/Views/Admin/Create.cshtml.g.cs
+/Users/kritsky/Desktop/Miraii2/obj/Debug/net5.0/Razor/Views/Admin/Edit.cshtml.g.cs
+/Users/kritsky/Desktop/Miraii2/obj/Debug/net5.0/Razor/Views/Admin/Index.cshtml.g.cs
+/Users/kritsky/Desktop/Miraii2/obj/Debug/net5.0/Razor/Views/Blog/Blog.cshtml.g.cs
+/Users/kritsky/Desktop/Miraii2/obj/Debug/net5.0/Razor/Views/Blog/Index.cshtml.g.cs
+/Users/kritsky/Desktop/Miraii2/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+/Users/kritsky/Desktop/Miraii2/obj/Debug/net5.0/Razor/Views/Home/Privacy.cshtml.g.cs
+/Users/kritsky/Desktop/Miraii2/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/kritsky/Desktop/Miraii2/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/kritsky/Desktop/Miraii2/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/kritsky/Desktop/Miraii2/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/kritsky/Desktop/Miraii2/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/kritsky/Desktop/Miraii2/obj/Debug/net5.0/Miraii.RazorTargetAssemblyInfo.cache
+/Users/kritsky/Desktop/Miraii2/obj/Debug/net5.0/Miraii.RazorTargetAssemblyInfo.cs
+/Users/kritsky/Desktop/Miraii2/obj/Debug/net5.0/Miraii.Views.pdb
+/Users/kritsky/Desktop/Miraii2/obj/Debug/net5.0/Miraii.dll
+/Users/kritsky/Desktop/Miraii2/obj/Debug/net5.0/ref/Miraii.dll
+/Users/kritsky/Desktop/Miraii2/obj/Debug/net5.0/Miraii.pdb
+/Users/kritsky/Desktop/Miraii2/obj/Debug/net5.0/Miraii.genruntimeconfig.cache
+/Users/kritsky/Desktop/Miraii2/obj/Debug/net5.0/Miraii.csproj.CopyComplete
